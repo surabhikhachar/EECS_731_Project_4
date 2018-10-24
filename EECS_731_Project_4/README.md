@@ -1,7 +1,9 @@
 EECS_731_Project_4
 ==============================
 
-This project is  using regression models to determine scores for teams on an NBA data set taken from FiviveThirtyEight. 
+This project is using regression models to determine scores for soccer matches. The data for this data set comes from FiveThirtyEight. The regression model used is a Random Forest. 
+
+The project closely follows the "cookie cutter" data organization method. 
 
 Project Organization
 ------------
